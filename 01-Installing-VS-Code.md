@@ -4,7 +4,7 @@ This guide will walk you through the installation process of Visual Studio Code 
 
 ## **Windows**
 
-* Visit the official Visual Studio Code website at [code.visualstudio.com](code.visualstudio.com).
+* Visit the official Visual Studio Code website at [code.visualstudio.com](https://code.visualstudio.com).
 * Click on the "Download for Windows" button to download the installer.
 * Once the installer is downloaded, run it.
 * Follow the prompts in the installer, selecting the desired options.
@@ -18,7 +18,7 @@ This guide will walk you through the installation process of Visual Studio Code 
 
 ## **macOS**
 
-* Visit the official Visual Studio Code website at [code.visualstudio.com](code.visualstudio.com).
+* Visit the official Visual Studio Code website at [code.visualstudio.com](https://code.visualstudio.com).
 * Click on the "Download for macOS" button to download the installer.
 * Once the installer is downloaded, open it.
 * Drag and drop the Visual Studio Code icon into the "Applications" folder.
@@ -29,7 +29,7 @@ This guide will walk you through the installation process of Visual Studio Code 
 
 **Debian and Ubuntu-based distributions**
 
-* Visit the official Visual Studio Code website at [code.visualstudio.com](code.visualstudio.com).
+* Visit the official Visual Studio Code website at [code.visualstudio.com](https://code.visualstudio.com).
 * Click on the "Download for Linux" button to download the Debian package (.deb) file.
 * Once the .deb file is downloaded, open it.
 * The package manager will handle the installation process.
@@ -37,7 +37,7 @@ This guide will walk you through the installation process of Visual Studio Code 
 
 **Red Hat, Fedora, and CentOS**
 
-* Visit the official Visual Studio Code website at [code.visualstudio.com](code.visualstudio.com).
+* Visit the official Visual Studio Code website at [code.visualstudio.com](https://code.visualstudio.com).
 * Click on the "Download for Linux" button to download the Red Hat package (.rpm) file.
 * Once the .rpm file is downloaded, open it.
 * The package manager will handle the installation process.
@@ -47,6 +47,6 @@ This guide will walk you through the installation process of Visual Studio Code 
 
 To verify that VS Code is installed correctly, launch it and check for the welcome screen. You can start using VS Code for your coding and development needs!
 
-For more information and troubleshooting, refer to the official VS Code documentation at [code.visualstudio.com/docs](code.visualstudio.com/docs).
+For more information and troubleshooting, refer to the official VS Code documentation at [code.visualstudio.com/docs](https://code.visualstudio.com/docs).
 
 Enjoy coding with Visual Studio Code! 🎉💻
