@@ -27,7 +27,7 @@ if (age >= 18) {
   console.log("You are not old enough to vote.");
 }
 ```
-In this example, if the age is 20, the condition age >= 18 evaluates to true, so the code block inside the if statement is executed, and the message "You are old enough to vote." is printed to the console.
+In this example, if the age is `20`, the condition `age >= 18` evaluates to `true`, so the code block inside the if statement is executed, and the message `"You are old enough to vote."` is printed to the console.
 
 **Example 2: Checking Multiple Conditions**
 
