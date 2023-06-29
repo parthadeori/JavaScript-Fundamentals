@@ -13,7 +13,7 @@ let string = "The answer is " + number;
 console.log(string); // Output: "The answer is 42"
 ```
 
-In this example, the number variable is implicitly converted to a string by JavaScript when concatenating it with another string using the `+` operator. The resulting string is `"The answer is 42"`.
+In this example, the `number` variable is implicitly converted to a string by JavaScript when concatenating it with another string using the `+` operator. The resulting string is `"The answer is 42"`.
 
 ## **Explicit Type Conversion**
 
