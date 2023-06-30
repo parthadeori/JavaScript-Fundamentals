@@ -15,7 +15,7 @@ Falsy values are those that evaluate to false when coerced to a boolean. In Java
 
 Here's an example that demonstrates falsy values:
 
-```
+```javascript
 let falsyValue = false;
 
 if (falsyValue) {
@@ -39,7 +39,7 @@ Truthy values are those that evaluate to true when coerced to a boolean. In Java
 
 Here's an example that demonstrates truthy values:
 
-```
+```javascript
 let truthyValue = "Hello";
 
 if (truthyValue) {
@@ -55,7 +55,7 @@ In this example, the value `"Hello"` is truthy, so the code block inside the if 
 
 Truthy and falsy values can be useful in conditional statements and expressions. For example, we can use them to check if a variable has been assigned a value or to perform conditional operations based on the truthiness or falsiness of a value.
 
-```
+```javascript
 let myVariable;
 
 if (myVariable) {
