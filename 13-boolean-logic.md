@@ -52,7 +52,7 @@ In JavaScript, values other than `true` and `false` can be used in boolean conte
 Truthy values are values that are considered `true` when evaluated in a boolean context. JavaScript treats the following values as truthy:
 
 * Non-empty strings: `"hello"`, `"true"`, etc.
-* Numbers other than 0 (positive or negative): 1, `-1`, `3.14`, etc.
+* Numbers other than 0 (positive or negative): `1`, `-1`, `3.14`, etc.
 * Arrays and objects: `[]`, `{}`, etc.
 * Non-empty functions: `function() { ... }`
 * Instances of custom classes or built-in objects.
