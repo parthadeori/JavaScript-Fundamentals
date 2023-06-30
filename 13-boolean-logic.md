@@ -10,7 +10,7 @@ JavaScript includes three primary logical operators: `&&` (AND), `||` (OR), and 
 
 The AND operator returns `true` if both operands are `true`. Otherwise, it returns `false`.
 
-```
+```javascript
 console.log(true && true);   // true
 console.log(true && false);  // false
 console.log(false && true);  // false
@@ -23,7 +23,7 @@ In the above example, the AND operator (`&&`) is used to combine two boolean val
 
 The OR operator returns `true` if at least one of the operands is `true`. If both operands are `false`, it returns `false`.
 
-```
+```javascript
 console.log(true || true);   // true
 console.log(true || false);  // true
 console.log(false || true);  // true
@@ -36,7 +36,7 @@ In the above example, the OR operator (`||`) combines two boolean values. It eva
 
 The NOT operator (`!`) negates the boolean value of its operand. It returns `true` if the operand is `false`, and `false` if the operand is `true`.
 
-```
+```javascript
 console.log(!true);  // false
 console.log(!false); // true
 ```
@@ -57,7 +57,7 @@ Truthy values are values that are considered `true` when evaluated in a boolean 
 * Non-empty functions: `function() { ... }`
 * Instances of custom classes or built-in objects.
 
-```
+```javascript
 if ("hello") {
   console.log("Truthy value");
 }
@@ -86,7 +86,7 @@ JavaScript treats the following values as falsy:
 * `undefined`
 * `false`
 
-```
+```javascript
 if (0) {
   console.log("Falsy value");
 }
@@ -110,7 +110,7 @@ JavaScript employs short-circuit evaluation when using logical operators.
 
 When the left operand of `&&` is `falsy`, the right operand is not evaluated, as the result will always be `falsy`.
 
-```
+```javascript
 let result = false && doSomething(); // doSomething() is not called
 ```
 
@@ -120,7 +120,7 @@ In the above example, `doSomething()` is not executed because the left operand `
 
 When the left operand of `||` is `truthy`, the right operand is not evaluated, as the result will always be `truthy`.
 
-```
+```javascript
 let result = true || doSomething(); // doSomething() is not called
 ```
 
@@ -128,7 +128,7 @@ In the above example, `doSomething()` is not executed because the left operand `
 
 Short-circuit evaluation can be leveraged to conditionally execute code based on a certain condition.
 
-```
+```javascript
 let value = getUserInput() || "Default Value";
 ```
 
@@ -138,7 +138,7 @@ In the above example, if `getUserInput()` returns a truthy value, it will be ass
 
 Logical operators can be combined to create complex logical expressions.
 
-```
+```javascript
 let age = 25;
 let isCitizen = true;
 
