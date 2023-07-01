@@ -1,4 +1,4 @@
-# **📚 JavaScript Repository 🚀**
+# **📚 JavaScript Fundamentals Repository 🚀**
 
 Welcome to the JavaScript Repository! Here, you'll embark on an exciting journey through JavaScript, from beginner to advanced topics. Explore a wide range of concepts, accompanied by interactive code examples and projects to solidify your understanding.
 
